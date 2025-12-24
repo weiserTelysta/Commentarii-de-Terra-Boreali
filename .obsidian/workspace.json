@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "33ce579e6fc65b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5ebe3254fae56c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6090129a44002132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lucia建筑风格"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f740a7c49bd00af",
+    "type": "split",
+    "children": [
+      {
+        "id": "c286337562b75ce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dfd739fd239e258",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4a05be6480e6168e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "714b5776f5df732a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "164a4fcd5e3316a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba74ede12583ecc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ecb8887f848b509",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Lucia建筑风格 的反向链接列表"
+            }
+          },
+          {
+            "id": "bb8233283af9a5c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Lucia建筑风格 的出链列表"
+            }
+          },
+          {
+            "id": "36d09dde22391309",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "efec2db88f30cc94",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cab91c509c9bf353",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Lucia建筑风格 的大纲"
+            }
+          },
+          {
+            "id": "f4846418e3bea2b5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6090129a44002132",
+  "lastOpenFiles": [
+    "CN/weiser/埃瑟穆大区/埃瑟穆大区.md",
+    "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/特莉丝塔·斯佩比亚.md",
+    "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/萝莎琳德·斯佩比亚.md",
+    "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/斯佩比亚家族.md",
+    "README.md"
+  ]
+}
