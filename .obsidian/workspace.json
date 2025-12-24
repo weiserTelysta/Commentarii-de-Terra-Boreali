@@ -11,14 +11,10 @@
             "id": "6090129a44002132",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lucia建筑风格"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Lucia建筑风格 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Lucia建筑风格 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CN/weiser/图片与杂项/Lucia建筑风格.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lucia建筑风格 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -194,12 +187,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cab91c509c9bf353",
+  "active": "0dfd739fd239e258",
   "lastOpenFiles": [
-    "CN/weiser/埃瑟穆大区/埃瑟穆大区.md",
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物/薇儿·艾尔维娜.md",
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物/芙刻.md",
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物/理查.md",
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物/凯恩斯.md",
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物",
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/格蕾迪丝·莱格普斯.md",
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍",
+    "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地/北境与凯歌/北境与凯歌.md",
+    "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地/北境与凯歌/凯歌北征.md",
     "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/特莉丝塔·斯佩比亚.md",
     "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/萝莎琳德·斯佩比亚.md",
     "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/斯佩比亚家族.md",
-    "README.md"
+    "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关",
+    "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地/北境与凯歌",
+    "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族",
+    "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地",
+    "CN/weiser/埃瑟穆大区/王冠领地",
+    "CN/weiser/埃瑟穆大区/斯佩比亚大公领地",
+    "CN/weiser/埃瑟穆大区/埃瑟穆大区.md",
+    "CN/weiser/埃瑟穆大区",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Women's hairstyles of the Byzantine Empire.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Two Fourth-century Shepherds.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Twelfth-century Princess and Court Dignitary.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Twelfth-century Merchant and Monk.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Tenth-century Priest.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Sixth-century Noble Couple.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Sixth-century Men of Rank.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Sixth-century Courtiers.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Seventh-century Warrior and Townswoman.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Seventh-century Courtier and Priest.png",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/拜占庭风尚.md",
+    "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库",
+    "CN/weiser/图片与杂项/关于教育的摘录.md",
+    "CN/weiser/图片与杂项/Lucia建筑风格.md",
+    "CN/weiser/卡林达尔雪原国/城市/雪境城.md",
+    "CN/weiser/卡林达尔雪原国/城市/三千城.md",
+    "CN/weiser/卡林达尔雪原国/基础设定/雪原春谷.md",
+    "CN/weiser/卡林达尔雪原国/卡林达尔.md",
+    "CN/weiser/世界设定/战争神相关/战争神相关/战争神信仰.md",
+    "CN/weiser/世界设定/战争神相关/战争神相关/战争神.md",
+    "CN/weiser/世界设定/战争神相关/战争神相关/卡琳剑.md",
+    "CN/weiser/世界设定/战争神相关/战争神相关/“礼魂使”.md",
+    "CN/weiser/世界设定/战争神相关/战争神相关/Saimiculus.md",
+    "CN/weiser/世界设定/香染工艺.md",
+    "CN/weiser/世界设定/虹丝织衣.md",
+    "CN/weiser/世界设定/灾月.md"
   ]
 }
