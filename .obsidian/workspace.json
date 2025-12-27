@@ -11,10 +11,14 @@
             "id": "6090129a44002132",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CN/weiser/埃瑟穆大区/埃瑟穆大区.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "埃瑟穆大区"
             }
           }
         ]
@@ -150,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CN/weiser/埃瑟穆大区/埃瑟穆大区.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "埃瑟穆大区 的大纲"
             }
           },
           {
@@ -187,8 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dfd739fd239e258",
+  "active": "6090129a44002132",
   "lastOpenFiles": [
+    "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地/北境与凯歌/凯歌北征.md",
+    "CN/weiser/埃瑟穆大区/埃瑟穆大区.md",
     "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物/薇儿·艾尔维娜.md",
     "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物/芙刻.md",
     "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍/归乡军团人物/理查.md",
@@ -197,7 +204,6 @@
     "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/格蕾迪丝·莱格普斯.md",
     "CN/weiser/埃瑟穆大区/王冠领地/诺沃相关/归乡卫戍",
     "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地/北境与凯歌/北境与凯歌.md",
-    "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地/北境与凯歌/凯歌北征.md",
     "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/特莉丝塔·斯佩比亚.md",
     "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/萝莎琳德·斯佩比亚.md",
     "CN/weiser/埃瑟穆大区/斯佩比亚大公领地/斯佩比亚家族/斯佩比亚家族.md",
@@ -207,7 +213,6 @@
     "CN/weiser/埃瑟穆大区/米瑞莉亚总督领地",
     "CN/weiser/埃瑟穆大区/王冠领地",
     "CN/weiser/埃瑟穆大区/斯佩比亚大公领地",
-    "CN/weiser/埃瑟穆大区/埃瑟穆大区.md",
     "CN/weiser/埃瑟穆大区",
     "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Women's hairstyles of the Byzantine Empire.png",
     "CN/weiser/图片与杂项/拜占庭服饰特色文献翻译/拜占庭风尚/图库/Two Fourth-century Shepherds.png",
